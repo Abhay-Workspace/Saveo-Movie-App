@@ -1,6 +1,7 @@
 # saveo_movie_app
 
-A new Flutter project.
+Example GIF
+![Example GIF](https://github.com/Abhay-Workspace/Saveo-Movie-App/blob/master/example_gif/saveo-movie-app.gif)
 
 ## Getting Started
 
